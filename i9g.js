@@ -11,3 +11,5 @@ function copyText() {
 }
 
 document.querySelector('.bang').addEventListener('click', copyText());
+
+// github test commit
