@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-large {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    min-height: 300px;
+    margin-top: 20%;
+}
+
+.bang {
+    font-size: 256px;
+}
