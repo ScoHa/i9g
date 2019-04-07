@@ -1,4 +1,8 @@
-.content {
+.card-content {
+    font-size: 4em;
+}
+
+/* .content {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,4 +19,4 @@
 
 .bang {
     font-size: 256px;
-}
+} */
